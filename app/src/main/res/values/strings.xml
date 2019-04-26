@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Sesion5</string>
+    <string name="Genero">Genero</string>
+    <string name="Ingreses_nombre">Ingrese aqui su nombre</string>
+    <string name="Ingreses_telefono">Ingrese aqui su telefono</string>
+    <string name="Escolaridad_string">Escolaridad</string>
+    <string name="Femenino">Femenino</string>
+    <string name="Masculino">Masculino</string>
+    <string name="limpear">limpear</string>
+    <string name="Practica_deporte">Practica deporte</string>
+    <string name="libro_favorito">libro favorito</string>
+
+    <string-array name="Array_escolaridad">
+        <item>  </item>
+        <item>Bachillerato</item>
+        <item>Técnico</item>
+        <item>Licenciatura</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+
+    <string-array name="Arry_libros">
+        <item>Game of thrones</item>
+        <item>Los ojos de mi princesa</item>
+        <item>Koran</item>
+        <item>Biblia</item>
+        <item>Algebra de Baldor</item>
+        <item>Padre rico padre pobre</item>
+    </string-array>
+
+</resources>
